@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">File Browser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="goto_root">..</string>
+</resources>
